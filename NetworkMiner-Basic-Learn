@@ -1,0 +1,10 @@
+##What is NetworkMiner
+NetworkMiner is a network forensic analysis tool used to parse pcap files and extract artifacts such as credentials, files, hosts,...
+
+##Key tabs
+- Host
+- Credential
+- File
+- Sessions
+- DNS
+- Parameter
