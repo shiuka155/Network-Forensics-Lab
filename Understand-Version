@@ -1,0 +1,4 @@
+Understand the version of NetworkMiner that I am using
+Understand the different between the version 1.6 and 2.7:
+- Version 1.6 can handles Frames, provide more details on packet details
+- Version 2.7 can detect duplicate MAC addresses
